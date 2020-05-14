@@ -1,0 +1,13 @@
+body{
+	background-color: #111;
+	color: #fff;
+}
+h1 {
+	text-align: center;
+	margin: 0;
+	font-weight: 250;
+	font-size: 6rem;
+}
+.height100vh{
+	height: 100vh
+}
