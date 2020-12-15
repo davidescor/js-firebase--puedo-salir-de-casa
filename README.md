@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/httKjH8w/puedosalirdecasaweb.png">
+  <img src="https://i.postimg.cc/qRLmzZxb/quedarme-casa.jpg">
 </p>
 
 
@@ -9,7 +9,7 @@ It tells you if you can leave the house and with the conditions to do so.
 Firebase remoteConfig is used to change the data.
 
 
-<img src="http://davidespier.com/github/js-puedosalir/puedosalirdecasaweb.png">
+<img src="https://i.postimg.cc/httKjH8w/puedosalirdecasaweb.png">">
 
 ## Requirements
 
