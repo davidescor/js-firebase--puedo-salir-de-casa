@@ -34,7 +34,7 @@ var firebaseConfig = {
 
 ## Website project
 
-[Google play](https://play.google.com/store/apps/details?id=com.davidespier.puedosalirdecasa)
+[Website](http://davidespier.com/pages/puedosalirdecasa/)
 
 
 ## Authors
